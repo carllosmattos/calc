@@ -11,5 +11,5 @@
     @if (isset($result))
         <strong>= {{ $result }}</strong>
     @endif
-    <button>Execute</button>
+    <button>Play</button>
 </form>
